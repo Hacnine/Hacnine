@@ -6,7 +6,7 @@ I also have entry-level experience with **Node.js** and **Next.js**, and I am ea
 
 I am always on the lookout for new challenges and opportunities to grow as a developer and contribute to impactful projects. Feel free to explore my work and connect with me for any queries or collaborations.
 
-📌 **All of my projects are available at** [My Portfolio](#)  
+📌 **All of my projects are available at** [My Portfolio](https://myliveresume.netlify.app/)  
 📌 **Ask me about** React.js, JavaScript, Tailwind CSS, Next.js, and Sass  
 📌 **How to reach me**: **tushar.ahmed@example.com**
 
