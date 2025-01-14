@@ -8,7 +8,7 @@ I am always on the lookout for new challenges and opportunities to grow as a dev
 
 📌 **All of my projects are available at** [My Portfolio](https://myliveresume.netlify.app/)  
 📌 **Ask me about** React.js, JavaScript, Tailwind CSS, Next.js, and Sass  
-📌 **How to reach me**: **tushar.ahmed@example.com**
+📌 **How to reach me**: **hacninetusar.com**
 
 ---
 
