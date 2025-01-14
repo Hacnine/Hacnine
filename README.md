@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tushar Tushar
+# Hi, I'm Hasnain Tushar
 
 A frontend web developer skilled in **React.js**, **JavaScript**, **Tailwind CSS**, **Next.js**, **Sass**, **Python**, and **Django**. I am passionate about creating modern, responsive, and dynamic web applications with a focus on high-quality user experiences. My journey in web development has allowed me to contribute to live projects, learn new tools, and continually improve my skill set.
 
